@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <document>
+        <documentId>1001</documentId>
+        <documentName>Java</documentName>
+        <companyName>Oracle</companyName>
+        <reporterName>reporter1</reporterName>
+    </document>
+    <document>
+        <documentId>1002</documentId>
+        <documentName>Spring-Boot</documentName>
+        <companyName>Spring</companyName>
+        <reporterName>reporter2</reporterName>
+    </document>
+    <document>
+        <documentId>1003</documentId>
+        <documentName>Spring-Batch</documentName>
+        <companyName>Spring</companyName>
+        <reporterName>reporter3</reporterName>
+    </document>
+    <document>
+        <documentId></documentId>
+        <documentName></documentName>
+        <companyName>Spring</companyName>
+        <reporterName>reporter4</reporterName>
+    </document>
+    <document>
+        <documentId>1001</documentId>
+        <documentName>Java</documentName>
+        <companyName>Oracle</companyName>
+        <reporterName>reporter1</reporterName>
+    </document>
+</documents>
